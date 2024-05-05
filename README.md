@@ -26,6 +26,6 @@ I am a NUS-BIT student in Singapore, making a mid-career change from music. My j
 - 📫 Reach me via [Linkedin](https://www.linkedin.com/in/ng-wee-seng-4b49171a9/)! 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,vite,redux,,angular,express,nodejs,spring,flask,mysql,redis,mongodb,docker,vercel,selenium,bootstrap,gherkin,py,java,ts,js,html,css&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,redux,angular,express,nodejs,spring,flask,mysql,redis,mongodb,,docker,vercel,selenium,bootstrap,gherkin,py,java,ts,js,html,css&perline=4)](https://skillicons.dev)
 
 Thanks for stopping by! Let's connect and explore the everchanging world of technology together!
