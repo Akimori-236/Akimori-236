@@ -23,7 +23,7 @@ I am a NUS-BIT student in Singapore, making a mid-career change from music. My j
 
 - 🌱 I'm currently pursuing my Bachelor's in Information Technology at NUS.
 - 🔭 I'm currently working on a full stack web development project to help wind band conductors keep up with the latest sheet music releases
-- 📫 Reach me via [Linkedin](https://www.linkedin.com/in/ng-wee-seng-4b49171a9/)! 
+- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) Reach me via [Linkedin](https://www.linkedin.com/in/ng-wee-seng-4b49171a9/)! 
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,vite,angular,express,nodejs,spring,flask,redis,mongodb,docker,selenium,bootstrap,idea,vercel,gherkin,py,java,ts,js,html,css)](https://skillicons.dev)
