@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a NUS-BIT student in Singapore, making a mid-career change from music. My journey involves delving into the world of web development, and exploring new ideas and frameworks.
 
-![Akimori-236's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Akimori-236's Stats](https://github-readme-stats.vercel.app/api?username=Akimori-236&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
