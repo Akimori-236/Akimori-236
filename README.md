@@ -1,5 +1,5 @@
 ### Hi there, I'm Wee Seng! 👋
-
+![GitHub watchers](https://img.shields.io/github/watchers/:user/:repo)
 <!--
 **Akimori-236/Akimori-236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
