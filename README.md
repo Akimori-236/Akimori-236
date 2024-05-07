@@ -34,7 +34,7 @@ I am a NUS-BIT student in Singapore, making a mid-career change from music. My j
 ![Redis](https://img.shields.io/badge/redis-D82C20.svg?&style=flat-square&logo=redis&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-f7f7f7?style=flastic&logo=Figma&logoColor=F24E1E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-553C7B?style=flat-square&logo=bootstrap&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-F7F7F7?style=flastic&logo=Postman&logoColor=FF6C37)
+![Postman](https://img.shields.io/badge/Postman-070707?style=flastic&logo=Postman&logoColor=FF6C37)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
