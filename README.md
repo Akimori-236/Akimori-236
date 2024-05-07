@@ -26,8 +26,10 @@ I am a NUS-BIT student in Singapore, making a mid-career change from the militar
 
 ## Tech Stack
 <!-- [![My Skills](https://skillicons.dev/icons?i=react,vite,redux,angular,express,nodejs,spring,flask,mysql,redis,mongodb,,docker,vercel,selenium,bootstrap,gherkin,py,java,ts,js,html,css&perline=4)](https://skillicons.dev) -->
+![Vite](https://img.shields.io/badge/Vite-1E700F?style=flat-square&logo=vite&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-1E700F?style=flat-square&logo=selenium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-1E700F?style=flat-square&logo=cucumber&logoColor=white)
+![Gherkin](https://img.shields.io/badge/Gherkin-1E700F?style=flat-square&logo=gherkin&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-1C2C4C?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-black?style=flastic&logo=Redux&logoColor=764ABC)
