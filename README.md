@@ -41,4 +41,6 @@ I am a NUS-BIT student in Singapore, making a mid-career change from music. My j
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akimori-236&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+
 Thanks for stopping by! Let's connect and explore the everchanging world of technology together!
