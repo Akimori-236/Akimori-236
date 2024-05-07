@@ -28,7 +28,7 @@ I am a NUS-BIT student in Singapore, making a mid-career change from the militar
 <!-- [![My Skills](https://skillicons.dev/icons?i=react,vite,redux,angular,express,nodejs,spring,flask,mysql,redis,mongodb,,docker,vercel,selenium,bootstrap,gherkin,py,java,ts,js,html,css&perline=4)](https://skillicons.dev) -->
 ![Selenium](https://img.shields.io/badge/Selenium-1E700F?style=flat-square&logo=selenium&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-1C2C4C?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-1C2C4C?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-black?style=flastic&logo=Redux&logoColor=764ABC)
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-black?style=flat-square&logo=angular&logoColor=49A248)
