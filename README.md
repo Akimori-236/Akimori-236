@@ -26,10 +26,12 @@ I am a NUS-BIT student in Singapore, making a mid-career change from the militar
 
 ## Tech Stack
 <!-- [![My Skills](https://skillicons.dev/icons?i=react,vite,redux,angular,express,nodejs,spring,flask,mysql,redis,mongodb,,docker,vercel,selenium,bootstrap,gherkin,py,java,ts,js,html,css&perline=4)](https://skillicons.dev) -->
+![Selenium](https://img.shields.io/badge/Selenium-1E700F?style=flat-square&logo=selenium&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-1C2C4C?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-black?style=flastic&logo=Redux&logoColor=764ABC)
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-D82C20?style=flat-square&logo=angular&logoColor=49A248)
 ![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=flat-square&logo=mongodb&logoColor=49A248)
 ![Redis](https://img.shields.io/badge/redis-D82C20.svg?&style=flat-square&logo=redis&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-1E700F.svg?&style=flat-square&logo=spring&logoColor=white)
@@ -38,6 +40,7 @@ I am a NUS-BIT student in Singapore, making a mid-career change from the militar
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-553C7B?style=flat-square&logo=bootstrap&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flastic&logo=Postman&logoColor=FF6C37)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-306998?style=flat-square&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black)
