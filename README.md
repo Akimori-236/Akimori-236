@@ -33,7 +33,7 @@ I am a NUS-BIT student in Singapore, making a mid-career change from the militar
 ![React](https://img.shields.io/badge/React-1C2C4C?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-black?style=flastic&logo=Redux&logoColor=764ABC)
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-black?style=flat-square&logo=angular&logoColor=49A248)
+![Angular](https://img.shields.io/badge/Angular-white?style=flat-square&logo=angular&logoColor=red)
 ![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=flat-square&logo=mongodb&logoColor=49A248)
 ![Redis](https://img.shields.io/badge/redis-D82C20.svg?&style=flat-square&logo=redis&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-1E700F.svg?&style=flat-square&logo=spring&logoColor=white)
@@ -45,7 +45,7 @@ I am a NUS-BIT student in Singapore, making a mid-career change from the militar
 ![Flask](https://img.shields.io/badge/Flask-306998?style=flat-square&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=F0DB4F)
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=flat-square&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 
