@@ -31,7 +31,7 @@ I am a NUS-BIT student in Singapore, making a mid-career change from the militar
 ![Cucumber](https://img.shields.io/badge/Cucumber-1E700F?style=flat-square&logo=cucumber&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-1C2C4C?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-black?style=flastic&logo=Redux&logoColor=764ABC)
+![Redux](https://img.shields.io/badge/Redux-white?style=flastic&logo=Redux&logoColor=764ABC)
 ![Node.js](https://img.shields.io/badge/Node.js-white?style=flat-square&logo=node.js&logoColor=3C873A)
 ![Angular](https://img.shields.io/badge/Angular-white?style=flat-square&logo=angular&logoColor=red)
 ![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=flat-square&logo=mongodb&logoColor=49A248)
