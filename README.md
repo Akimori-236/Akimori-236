@@ -42,6 +42,7 @@ I am a NUS-BIT student in Singapore, making a mid-career change from the militar
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=flat-square&logo=bootstrap&logoColor=553C7B)
 ![Postman](https://img.shields.io/badge/Postman-white?style=flastic&logo=Postman&logoColor=FF6C37)
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=flat-square&logo=mysql&logoColor=00758F)
+![MySQL](https://img.shields.io/badge/MySQL-white?style=flat-square&logo=mysql&logoColor=4479A1)
 ![Flask](https://img.shields.io/badge/Flask-white?style=flat-square&logo=flask&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=306998)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
