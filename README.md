@@ -39,6 +39,7 @@ I am a NUS-BIT student in Singapore, making a mid-career change from the militar
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-white.svg?&style=flat-square&logo=spring&logoColor=1E700F)
 ![Java](https://img.shields.io/badge/Java-306998.svg?&style=flat-square&logo=java8&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-f7f7f7?style=flastic&logo=Figma&logoColor=F24E1E)
+![Jinja](https://img.shields.io/badge/Jinja-white?style=flastic&logo=Jinja&logoColor=B41717)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=flat-square&logo=bootstrap&logoColor=553C7B)
 ![Postman](https://img.shields.io/badge/Postman-white?style=flastic&logo=Postman&logoColor=FF6C37)
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=flat-square&logo=mysql&logoColor=00758F)
