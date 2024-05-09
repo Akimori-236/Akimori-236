@@ -43,11 +43,11 @@ I am a NUS-BIT student in Singapore, making a mid-career change from the militar
 ![Postman](https://img.shields.io/badge/Postman-black?style=flastic&logo=Postman&logoColor=FF6C37)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-306998?style=flat-square&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=306998)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=F0DB4F)
-![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=flat-square&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-white?style=flat-square&logo=css3&logoColor=264DE4)
+![HTML](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=E34C26)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akimori-236&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
