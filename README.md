@@ -24,6 +24,10 @@ I am a NUS-BIT student in Singapore, making a mid-career change from the militar
 - 🔭 I'm currently working on a full stack web development project to help wind band conductors keep up with the latest sheet music releases
 - 📫 Reach me via [Linkedin](https://www.linkedin.com/in/ng-wee-seng-4b49171a9/)! 
 
+## Projects
+- [Inventory Management Web Application (Angular, Spring Boot, MySQL, MongoDB)](https://github.com/Akimori-236/mp-isms)
+- [Library Catalog Web Application (JQuery, Jinja2, Flask, MySQL)](https://github.com/Akimori-236/bandLibCatalogue)
+
 ## Tech Stack
 <!-- [![My Skills](https://skillicons.dev/icons?i=react,vite,redux,angular,express,nodejs,spring,flask,mysql,redis,mongodb,,docker,vercel,selenium,bootstrap,gherkin,py,java,ts,js,html,css&perline=4)](https://skillicons.dev) -->
 ![Selenium](https://img.shields.io/badge/Selenium-white?style=flat-square&logo=selenium&logoColor=26bc26)
