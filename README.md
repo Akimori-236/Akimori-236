@@ -33,7 +33,6 @@ I am a NUS-BIT student in Singapore, making a mid-career change from the militar
 ![Selenium](https://img.shields.io/badge/Selenium-white?style=flat-square&logo=selenium&logoColor=26bc26)
 ![Cucumber](https://img.shields.io/badge/Cucumber-53bb64?style=flat-square&logo=cucumber&logoColor=133343)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=0DB7ED)
-![Vite](https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite&logoColor=AD46F8)
 ![React](https://img.shields.io/badge/React-1C2C4C?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-black?style=flastic&logo=Redux&logoColor=764ABC)
 ![Express.js](https://img.shields.io/badge/Express.js-white?style=flat-square&logo=Express&logoColor=black)
