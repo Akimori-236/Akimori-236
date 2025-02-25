@@ -30,11 +30,11 @@ I am a NUS-BIT student in Singapore, making a mid-career change from the militar
 
 ## Tech Stack
 <!-- [![My Skills](https://skillicons.dev/icons?i=react,vite,redux,angular,express,nodejs,spring,flask,mysql,redis,mongodb,,docker,vercel,selenium,bootstrap,gherkin,py,java,ts,js,html,css&perline=4)](https://skillicons.dev) -->
+<!-- ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=0DB7ED) -->
+<!-- ![Redux](https://img.shields.io/badge/Redux-black?style=flastic&logo=Redux&logoColor=764ABC) -->
 ![Selenium](https://img.shields.io/badge/Selenium-white?style=flat-square&logo=selenium&logoColor=26bc26)
 ![Cucumber](https://img.shields.io/badge/Cucumber-53bb64?style=flat-square&logo=cucumber&logoColor=133343)
-<!-- ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=0DB7ED) -->
 ![React](https://img.shields.io/badge/React-1C2C4C?style=flat-square&logo=react&logoColor=61DAFB)
-<!-- ![Redux](https://img.shields.io/badge/Redux-black?style=flastic&logo=Redux&logoColor=764ABC) -->
 ![Express.js](https://img.shields.io/badge/Express.js-white?style=flat-square&logo=Express&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=3C873A)
 ![Angular](https://img.shields.io/badge/Angular-white?style=flat-square&logo=angular&logoColor=red)
