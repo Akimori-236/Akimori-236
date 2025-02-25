@@ -55,5 +55,3 @@ I am a NUS-BIT student in Singapore, making a mid-career change from the militar
 ![HTML](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5&logoColor=E34C26)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akimori-236&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
-
-Thanks for stopping by! Let's connect and explore the everchanging world of technology together!
