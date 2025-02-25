@@ -21,7 +21,7 @@ I am a NUS-BIT student in Singapore, making a mid-career change from the militar
 ## 🚀 About Me
 
 - 🌱 I'm currently pursuing my Bachelor's in Information Technology at NUS.
-- 🔭 I'm currently working in a research organisation!
+- 🔭 I'm currently working in a research organisation, making web applications!
 - 📫 Reach me via [Linkedin](https://www.linkedin.com/in/ng-wee-seng-4b49171a9/)! 
 
 ## Projects
